@@ -1,0 +1,1 @@
+openai_key = "" put here your actual openai key
